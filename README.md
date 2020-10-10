@@ -8,7 +8,7 @@ End to end Classification model for employee likely to quit.
 - Find insights on what keep employees 
 - Find insights on what makes employees leave
  
- #### Methods Used
+#### Methods Used
  Statistics, Machine Learning, Data Visualization,Predictive Modeling,
  Logistic Regression, Data Cleansing,Random Forest, Deep Learning
 
