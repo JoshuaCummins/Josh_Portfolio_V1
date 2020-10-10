@@ -60,6 +60,6 @@ An end to end Linear Regression model and analysis.
  Linear Regression, Data Cleansing, Preproccessing, Feature Engineering
  
 #### Technologies
-Python, SkLearn, Matplotlib,  Pandas, jupyter, Numpy, statsmodels
+Python, SkLearn, Matplotlib,  Pandas, jupyter, Numpy, statsmodels.api
 
 ![](/images/4.png)
