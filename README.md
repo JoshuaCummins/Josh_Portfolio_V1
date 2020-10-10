@@ -2,6 +2,7 @@
 
 # [Employee Retention Prediction](https://github.com/JoshuaCummins/Data-Science-and-Machine-Learning-Projects/tree/master/Employee%20Retention%20Prediction)
 End to end Classification model for employee likely to quit.
+
 #### Project Objective
 - Predict whether or not an employee will quit based on factors
 - Find insights on what keep employees 
@@ -13,6 +14,7 @@ End to end Classification model for employee likely to quit.
 
 ### Technologies 
  Python, SkLearn, Matplotlib,  Pandas, jupyter, Numpy, Keras, TensorFlow
+ ![](https://github.com/JoshuaCummins/Josh_Portfolio_V1/blob/main/images/1.png)
 
 # [Predict Future Sales and Analysis of Sales Data](https://github.com/JoshuaCummins/Data-Science-and-Machine-Learning-Projects/tree/master/Predict%20Future%20Sales%20and%20Analysis%20Sales%20data)
 Build an end to end time series prediction model to predict sales.
@@ -28,6 +30,7 @@ Build an end to end time series prediction model to predict sales.
 
 #### Technologies
 * Facebook Prophet, Python, MatplotLib, Seaborn, Pandas, jupyter, Numpy
+![](https://github.com/JoshuaCummins/Josh_Portfolio_V1/blob/main/images/2.png)
 
 # [Segmentation for Marketing](https://github.com/JoshuaCummins/Data-Science-and-Machine-Learning-Projects/tree/master/Segmentation%20for%20Marketing)
 Analysis and Segment data for marketing team for targeted marketing campaigns and insights in customer habits.
@@ -43,6 +46,8 @@ Analyze sale data to find insights on customer needs.
 #### Technologies
 Python, SkLearn, Matplotlib,  Pandas, jupyter, Numpy
 
+![](https://github.com/JoshuaCummins/Josh_Portfolio_V1/blob/main/images/3.png)
+
 # [Multivariable Linear Regression for Real Estate](https://github.com/JoshuaCummins/Data-Science-and-Machine-Learning-Projects/tree/master/Multivariable%20Linear%20Regression%20Real%20Estate)
 An end to end Linear Regression model and analysis. 
 
@@ -56,3 +61,5 @@ An end to end Linear Regression model and analysis.
  
 #### Technologies
 Python, SkLearn, Matplotlib,  Pandas, jupyter, Numpy, statsmodels
+
+![](https://github.com/JoshuaCummins/Josh_Portfolio_V1/blob/main/images/4.png)
