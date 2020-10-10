@@ -43,10 +43,10 @@ Analyze sale data to find insights on customer needs.
 #### Technologies
 Python, SkLearn, Matplotlib,  Pandas, jupyter, Numpy
 
-# Multivariable Linear Regression for Real Estate
+# [Multivariable Linear Regression for Real Estate](https://github.com/JoshuaCummins/Data-Science-and-Machine-Learning-Projects/tree/master/Multivariable%20Linear%20Regression%20Real%20Estate)
 An end to end Linear Regression model and analysis. 
 
-## Project Objective
+#### Project Objective
 - to create an end to end machine learning algorithm that predicts house prices on the Boston housing market.
 - find out which features have the biggest positive and negative impacts on housing prices
 
@@ -54,5 +54,5 @@ An end to end Linear Regression model and analysis.
  Statistics, Machine Learning, Data Visualization, Predictive Modeling,
  Linear Regression, Data Cleansing, Preproccessing, Feature Engineering
  
- #### Technologies
+#### Technologies
 Python, SkLearn, Matplotlib,  Pandas, jupyter, Numpy, statsmodels
