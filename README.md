@@ -1,6 +1,6 @@
 # Joshua Cummins Portfolio
 
-# Employee Retention Prediction
+# [Employee Retention Prediction](https://github.com/JoshuaCummins/Data-Science-and-Machine-Learning-Projects/tree/master/Employee%20Retention%20Prediction)
 End to end Classification model for employee likely to quit.
 #### Project Objective
 - Predict whether or not an employee will quit based on factors
@@ -14,7 +14,7 @@ End to end Classification model for employee likely to quit.
 ### Technologies 
  Python, SkLearn, Matplotlib,  Pandas, jupyter, Numpy, Keras, TensorFlow
 
-# Predict Future Sales and Analysis of Sales Data
+# [Predict Future Sales and Analysis of Sales Data](https://github.com/JoshuaCummins/Data-Science-and-Machine-Learning-Projects/tree/master/Predict%20Future%20Sales%20and%20Analysis%20Sales%20data)
 Build an end to end time series prediction model to predict sales.
 
 #### Project Objective
@@ -29,7 +29,7 @@ Build an end to end time series prediction model to predict sales.
 #### Technologies
 * Facebook Prophet, Python, MatplotLib, Seaborn, Pandas, jupyter, Numpy
 
-# Segmentation for Marketing
+# [Segmentation for Marketing](https://github.com/JoshuaCummins/Data-Science-and-Machine-Learning-Projects/tree/master/Segmentation%20for%20Marketing)
 Analysis and Segment data for marketing team for targeted marketing campaigns and insights in customer habits.
 
 
