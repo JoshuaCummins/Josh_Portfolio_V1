@@ -28,3 +28,31 @@ Build an end to end time series prediction model to predict sales.
 
 #### Technologies
 * Facebook Prophet, Python, MatplotLib, Seaborn, Pandas, jupyter, Numpy
+
+# Segmentation for Marketing
+Analysis and Segment data for marketing team for targeted marketing campaigns and insights in customer habits.
+
+
+#### Project Objective
+The purpose of this project is analyze sales data to find potential customers to market too.
+Analyze sale data to find insights on customer needs.
+
+#### Methods Used
+ K-means, Machine Learning, Data Visualization, Principal Component Analysis
+ 
+#### Technologies
+Python, SkLearn, Matplotlib,  Pandas, jupyter, Numpy
+
+# Multivariable Linear Regression for Real Estate
+An end to end Linear Regression model and analysis. 
+
+## Project Objective
+- to create an end to end machine learning algorithm that predicts house prices on the Boston housing market.
+- find out which features have the biggest positive and negative impacts on housing prices
+
+#### Methods Used
+ Statistics, Machine Learning, Data Visualization, Predictive Modeling,
+ Linear Regression, Data Cleansing, Preproccessing, Feature Engineering
+ 
+ #### Technologies
+Python, SkLearn, Matplotlib,  Pandas, jupyter, Numpy, statsmodels
