@@ -12,7 +12,7 @@ End to end Classification model for employee likely to quit.
  Statistics, Machine Learning, Data Visualization,Predictive Modeling,
  Logistic Regression, Data Cleansing,Random Forest, Deep Learning
 
-### Technologies 
+#### Technologies 
  Python, SkLearn, Matplotlib,  Pandas, jupyter, Numpy, Keras, TensorFlow
  ![](/images/1.png)
 
